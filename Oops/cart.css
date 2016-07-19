@@ -1,0 +1,15 @@
+
+
+.carttable
+{
+  border-collapse: collapse;
+}
+.carttable td
+{
+  font-size: 20px;
+  width: 100px;
+  height: 40px;
+  vertical-align: middle;
+  text-align: center;
+  border:black 1px solid;
+}
